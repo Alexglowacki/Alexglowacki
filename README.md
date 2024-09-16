@@ -18,6 +18,13 @@
 - GitLab CI/CD
 - Docker
 - PCB design
+#### Soft skills:
+- Languages:
+    - English - C2 level
+    - German - B1 level
+    - Polish - Mother tongue
+- Jira, Confluence knowledge
+- Scrum Master certificate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
