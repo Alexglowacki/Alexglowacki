@@ -1,5 +1,23 @@
+# Aleksander Glowacki
 
-## Hi there 👋
+#### Technologies I use:
+- Python
+    - numpy
+    - Scikit/sklearn
+    - matplotlib
+    - pandas
+    - OpenCV2
+    - tkinter
+    - Yolov8
+    - Robot Framework
+- C/C++
+- Bash
+  - scripting
+- Linux-based systems
+- Git
+- GitLab CI/CD
+- Docker
+- PCB design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
